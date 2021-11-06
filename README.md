@@ -8,3 +8,4 @@
 ## Source
 
 * [Python Cookbook](https://yurecnt.ru/files/books/43hhsdjgo0mud4djzg2zveo1pnzc1o.pdf)
+* [From Tartu with love](https://thonny.org/)
